@@ -24,7 +24,7 @@
     "git-describe": "4.0.2",
     "mkdirp": "0.5.1",
     "ms": "2.0.0",
-    "node-fetch": "1.7.2",
+    "node-fetch": "2.6.1",
     "node-pty": "0.7.0",
     "queue": "4.4.0",
     "semver": "5.4.1",
